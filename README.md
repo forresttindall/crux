@@ -1,6 +1,6 @@
 # Crux 🔧🖐️
 
-**Crux** is a stealthy, all-in-one EDC (Everyday Carry) multitool and self-defense implement — designed for the unexpected.
+**Crux** is a stealthy, EDC multi-tool and self-defense implement — designed for the unexpected.
 
 ![Crux Multitool](./IMG_0141.jpg)
 
@@ -8,9 +8,9 @@
 
 ## Origin Story
 
-While border-hopping in Mexico, a sketchy encounter sparked the idea: What if one tool could get you out of a jam, both mechanical and personal?
+While border-hopping in Mexico, a sketchy encounter sparked the idea: A self-defense multi-tool that would would not mind if you needed to abandon at a border crossing.
 
-That’s how **Crux** was born — a minimalist, carry-friendly multitool that doubles as a discreet self-defense device. Lightweight, pocketable, and designed to give you options when things go sideways.
+That’s how **Crux** was born — a minimalist, carry-friendly multitool that doubles as a discreet self-defense device. Lightweight, pocketable, and designed to give you options if things go sideways.
 
 ---
 
@@ -20,7 +20,7 @@ That’s how **Crux** was born — a minimalist, carry-friendly multitool that d
 - **Box Wrench Set** – Multiple hex sizes for quick mechanical fixes.
 - **Bottle Opener** – Because sometimes survival means cracking open a cold one.
 - **Bit Driver Slot** – Accepts standard 1/4" bits for versatile screwdriving.
-- **Knuck (Impact Ring)** – For retention and personal defense.
+- **Knuck** – For retention and personal defense.
 - **Lanyard Hole** – For tethering or carrying on keychains.
 - **Deep Carry Pocket Clip** – Low profile and easy to conceal.
 
