@@ -1,5 +1,8 @@
 # Crux
 
+![Downloads](https://img.shields.io/github/downloads/forresttindall/crux/total?style=flat-square&logo=github&label=Downloads&color=blue)
+![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+
 **Crux** is a stealthy, EDC multi-tool and self-defense implement — designed for the unexpected.
 
 ![IMG_0137 copy](https://github.com/user-attachments/assets/24ba1334-7a1a-4cbc-8cf2-96084ee82522)
@@ -36,6 +39,22 @@ That’s how **Crux** was born — a minimalist, carry-friendly multitool that d
 | Weight       | 45g           |
 | Print Style  | FDM (layered) |
 | File Type    | STL           |
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+**You are free to:**
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+**Under the following terms:**
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
 
 ---
 
