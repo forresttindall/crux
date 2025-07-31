@@ -1,8 +1,9 @@
-# Crux 🔧🖐️
+# Crux
 
 **Crux** is a stealthy, EDC multi-tool and self-defense implement — designed for the unexpected.
 
-![Crux Multitool](./IMG_0141.jpg)
+![IMG_0137 copy](https://github.com/user-attachments/assets/24ba1334-7a1a-4cbc-8cf2-96084ee82522)
+
 
 ---
 
