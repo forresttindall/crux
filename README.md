@@ -1,7 +1,8 @@
 # Crux
 
-![Downloads](https://img.shields.io/github/downloads/forresttindall/crux/total?style=flat-square&logo=github&label=Downloads&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/forresttindall/crux?style=flat-square&logo=github&label=Stars&color=yellow)
 ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+![File Downloads](https://img.shields.io/github/downloads/forresttindall/crux/total?style=flat-square&logo=github&label=File%20Downloads&color=green)
 
 **Crux** is a stealthy, EDC multi-tool and self-defense implement — designed for the unexpected.
 
